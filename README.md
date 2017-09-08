@@ -1,4 +1,4 @@
-# UnityImageResize
+# Unity Image Resize
 Resize Image Unity3D 
 
 Based on other open source software released in keeping with open source standards.
